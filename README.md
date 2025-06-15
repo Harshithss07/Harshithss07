@@ -34,8 +34,15 @@
 ---
 
 <p align="center">
- <img src="https://visitcount.itsvg.in/api?id=Harshith-SS&label=Profile+Views&icon=👁️" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Harshithss07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Harshithss07&show_icons=true&theme=react"/>
+</p>
+
+
+
 
 
 
