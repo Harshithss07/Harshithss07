@@ -34,7 +34,7 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Harshith-SS&label=Profile+Views&color=12&icon=5&pretty=true" />
+ <img src="https://visitcount.itsvg.in/api?id=Harshith-SS&label=Profile+Views&icon=👁️" alt="Profile Views" />
 </p>
 
 
