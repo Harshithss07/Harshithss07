@@ -40,18 +40,22 @@
 
 
 
-<p align="center">
+<!--<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Harshithss07&show_icons=true&theme=react"/>
+</p>-->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshithss07&show_icons=true&theme=dark&title_color=FFA500&icon_color=FFA500" alt="GitHub Stats" />
 </p>
 
 
 
 <p align="center" style="border: 2px solid #FFA501; border-radius: 10px; padding: 10px;">
-  <img 
-    src="https://streak-stats.demolab.com?user=Harshithss07&theme=dark&background=0D1117&ring=FFA500&fire=FFA500&currStreakNum=FFA500&currStreakLabel=FFA500&dates=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&stroke=FFFFFF" 
-    alt="GitHub Streak" 
-  />
+  <img src="https://streak-stats.demolab.com?user=Harshithss07&theme=dark&background=0D1117&ring=FFA500&fire=FFA500&currStreakNum=FFA500&currStreakLabel=FFA500&dates=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&stroke=FFFFFF" 
+    alt="GitHub Streak" />
 </p>
+
+
 
 
 
