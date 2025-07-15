@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=%3E+Hello+World.;%3E+Im+Harshith+S.S.;%3E+Front-End+Dev+%7C+CS+Student." />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=%3E+Hello+World!;%3E+Im+Harshith+S.S.;%3E+Front-End+Dev+%7C+CS+Student." />
 </p>
 
 ---
@@ -34,26 +34,39 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harshithss07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
+  <img src="https://komarev.com/ghpvc/?username=Harshithss07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
-
-
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Harshith's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Harshithss07&show_icons=true&theme=radical" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://git.io/streak-stats">
+    <img alt="Harshith's GitHub Streak" src="https://streak-stats.demolab.com?user=Harshithss07&theme=radical" />
+  </a>
+</p>
 
 <!--<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Harshithss07&show_icons=true&theme=react"/>
-</p>-->
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harshithss07&show_icons=true&theme=dark&title_color=FFA500&icon_color=FFA500" alt="GitHub Stats" />
-</p>
+</p>-->
 
-
-
-<p align="center" style="border: 2px solid #FFA501; border-radius: 10px; padding: 10px;">
-  <img src="https://streak-stats.demolab.com?user=Harshithss07&theme=dark&background=0D1117&ring=FFA500&fire=FFA500&currStreakNum=FFA500&currStreakLabel=FFA500&dates=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&stroke=FFFFFF" 
+---
+<!--<p align="center" style="border: 2px solid #FFA501; border-radius: 10px; padding: 10px;">
+  <img src="https://streak-stats.demolab.com?   user=Harshithss07&theme=dark&background=0D1117&ring=FFA500&fire=FFA500&currStreakNum=FFA500&currStreakLabel=FFA500&dates=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&stroke=FFFFFF" 
     alt="GitHub Streak" />
-</p>
+</p>-->
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Harshithss07&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+
 
 
 
