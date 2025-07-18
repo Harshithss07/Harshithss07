@@ -1,3 +1,9 @@
+<!-- Top Wave Divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36bcf7&height=100&section=header" width="100%"/>
+</div>
+
+
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=%3E+Hello+World!;%3E+Im+Harshith+S.S.;%3E+Front-End+Dev+%7C+CS+Student." />
@@ -5,10 +11,11 @@
 
 ---
 
-> 🄷 Hello, I'm **Harshith S. S.**  
-> 🄸 A Front-End Developer and CS Student  
-> 🄻 Exploring Web Technologies and UI Design  
-
+> 🄷 Hi, I'm **Harshith S. S.**  
+> 🄸 A Front-End Developer and Computer Science Undergrad  
+> 🄻 Passionate about crafting elegant, responsive UIs  
+> 🄳 Exploring the world of web tech, design systems & interactivity ✨
+                                                                                                                     
 ---
 ## ☐ Tech Stack
 
@@ -60,8 +67,10 @@
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Harshithss07&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
+<!-- Bottom Wave Divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36bcf7&height=100&section=footer" width="100%"/>
+</div>
 
 
 
