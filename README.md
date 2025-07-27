@@ -11,10 +11,11 @@
 
 ---
 
-> 🄷 Hi, I'm **Harshith S. S.**  
-> 🄸 A Front-End Developer and Computer Science Undergrad  
-> 🄻 Passionate about crafting elegant, responsive UIs  
-> 🄳 Exploring the world of web tech, design systems & interactivity ✨
+> ✦  **Hi, I'm Harshith S. S.**  
+> ✦ Front-End Developer & Computer Science Undergrad  
+> ✦ UI enthusiast building elegant & responsive designs  
+> ✦ Exploring web technologies, design systems & interactivity ✨  
+
                                                                                                                      
 ---
 ## ☐ Tech Stack
