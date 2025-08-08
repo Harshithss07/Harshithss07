@@ -46,12 +46,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Harshith's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Harshithss07&show_icons=true&theme=radical" />
   </a>
-  &nbsp; &nbsp;
+
   <a href="https://git.io/streak-stats">
     <img alt="Harshith's GitHub Streak" src="https://streak-stats.demolab.com?user=Harshithss07&theme=radical" />
   </a>
 </p>
 
+  
+  
 <!--<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Harshithss07&show_icons=true&theme=react"/>
 </p>
